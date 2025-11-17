@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/ideal222/Music/Streaming_Avatar-main/fastapi_backend/venv
+set -gx VIRTUAL_ENV /home/ideal222/Music/fastapi_backend/venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
